@@ -1,3 +1,24 @@
+# Django X
+
+---
+***[Pull Request .....](https://github.com/mhmadwrekat/django-x/pull/1)***
+
+---
+## Feature Tasks and Requirements
+
+- [x] Create a custom user .
+- [x] Configure static assets .
+- [x] Add authentication .
+- [x] Set up styling .
+- [x] Install common libraries .
+- [x] Wire up 3rd party development tools .
+- [x] Create a website using DjangoX as a template .
+- [x] Create a Django app of your choosing .
+- [x] The specific functionality of the site is up to you but should have a model that makes use of get_user_model .
+- [x] User Acceptance Tests .
+  - Verify that your pages render as expected .
+
+---
 > A batteries-included Django starter project. For a production-ready version see the book [Django for Professionals](https://djangoforprofessionals.com).
 
 ## 🚀 Features
